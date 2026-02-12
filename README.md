@@ -1,3 +1,1 @@
-![](RESIGRIP4SPORTS PORTUGAL---preview.png)
-
-
+![ResiGrip Sports Portugal – Site em desenvolvimento](resigrip-preview.png)
